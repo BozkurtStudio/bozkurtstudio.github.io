@@ -507,7 +507,7 @@
 		"isim": "Koe no Katachi",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
 		"bilgi": "Ishida Shouya sağır bir kıza başka okula transfer olmasına sebep olacak kadar zorbalık eder. Sonuç olarak da kendisini arkadaşsız ve gelecek için planları olmayan biri olarak zorbalığa uğrarken bulur.",
-		"kategori": "Okul,Dram, , ",
+		"kategori": "Okul,Dram,null,null",
 		"tarih": "2016",
 		"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg"
 	},
@@ -515,7 +515,7 @@
 	"isim": "Classroom of the Elite",
 	"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
 	"bilgi": "Kōdo Ikusei Lisesi, ayrıcalıklarla dolu bir okuldur. Bu okulda giyim, kuşam, saç tarzı, takılar vb... gibi konuların bir önemi yoktur. Her şey sizin yaratıcılığınıza bırakılmıştır. Ülkedeki en gelişmiş tesislere sahip olan Ikusei Lisesi\'nin öğrencileri, üniversiteye girme ya da iş bulma konusunda neredeyse hiçbir zaman sıkıntı çekmemektedir. Kısacası bu lise tam da hayallerinizdeki gibidir. Tek bir farkla. Bu ayrıcalıklardan yalnızca en üstün öğrenciler faydalanmaktadır. Kahramanımız Kiyotaka Ayanokōji da bu liseye kayıt olmak için başvuranlar arasındadır. Fakat dikkatsizliği yüzünden başarısız olarak çöplerin sınıfı olarak adlandırılan D sınıfına atılır. Ne var ki burada tanıştığı Suzune Horikit, Kikyō Kushida ve diğer iki öğrenciyle beraber Kiyotaka\’nın durumu da yavaşça değişmeye başlayacaktır.",
-	"kategori": "Dram,komedi, , ",
+	"kategori": "Dram,Komedi,null,null",
 	"tarih": "2017",
 	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg"
 	},
@@ -523,7 +523,7 @@
 	"isim": "Classroom of the Elite 2. Sezon",
 	"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
 	"bilgi": "Classroom of the Elite 2. Sezonudur. Kōdo Ikusei Lisesi, ayrıcalıklarla dolu bir okuldur. Bu okulda giyim, kuşam, saç tarzı, takılar vb... gibi konuların bir önemi yoktur. Her şey sizin yaratıcılığınıza bırakılmıştır. Ülkedeki en gelişmiş tesislere sahip olan Ikusei Lisesi\'nin öğrencileri, üniversiteye girme ya da iş bulma konusunda neredeyse hiçbir zaman sıkıntı çekmemektedir. Kısacası bu lise tam da hayallerinizdeki gibidir. Tek bir farkla. Bu ayrıcalıklardan yalnızca en üstün öğrenciler faydalanmaktadır.rnKahramanımız Kiyotaka Ayanokōji da bu liseye kayıt olmak için başvuranlar arasındadır. Fakat dikkatsizliği yüzünden başarısız olarak çöplerin sınıfı olarak adlandırılan D sınıfına atılır. Ne var ki burada tanıştığı Suzune Horikit, Kikyō Kushida ve diğer iki öğrenciyle beraber Kiyotaka\''nın durumu da yavaşça değişmeye başlayacaktır.",
-	"kategori": "Dram,komedi, , ",
+	"kategori": "Dram,Komedi,null,null",
 	"tarih": "2022",
 	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/5AF4hhHYRB9lQiluH5SwgkeXq8K.jpg"
 	}
