@@ -502,5 +502,13 @@
 		"kategori": "Fantezi,Dram,Suç,Aksiyon",
 		"tarih": "2021",
 		"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/xsctRrDmbbw1mYgHU3h81zyM1sW.jpg"
+	},
+	{
+		"isim": "Koe no Katachi",
+		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+		"bilgi": "Ishida Shouya sağır bir kıza başka okula transfer olmasına sebep olacak kadar zorbalık eder. Sonuç olarak da kendisini arkadaşsız ve gelecek için planları olmayan biri olarak zorbalığa uğrarken bulur.",
+		"kategori": "Okul,Dram",
+		"tarih": "2016",
+		"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg"
 	}
 ]
