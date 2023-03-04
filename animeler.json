@@ -168,7 +168,7 @@
 		"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg"
 	},
 	{
-		"isim": "Vinland Saga 1. Sezon",
+		"isim": "Vinland Saga",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
 		"bilgi": "Binlerce yıldır Vikingler, şiddet yanlısı en güçlü soylardan biri olarak kendilerine ad yapmışlardır. Vikinglerin en iyi savaşçılarından birinin oğlu olan Thorfinn, derinden beslediği intikam arzusunu yerine getirmek için yeteneklerini geliştireceği savaş alanlarında çocukluğunu geçirir.",
 		"kategori": "Tarihi,Aksiyon,Macera,Dram",
@@ -303,7 +303,7 @@
 		"tarih": "2021",
 		"banner": "https://randomc.net/image/Horimiya/Horimiya%20-%2009%20-%20Large%2001.jpg"
 	},
-	{
+		{
 		"isim": "Jujutsu Kaisen",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
 		"bilgi": "Bir çocuk… “doğru ölüm” için savaşır. Zorluklar, pişmanlık, utanç… İnsanların hissettiği olumsuz duygular günlük hayatımızda gizlenen lanetlere dönüşür. Lanetler tüm dünyaya yayılır; insanları korkunç bir talihsizliğe, hatta ölüme götürebilir. Dahası, lanetler yalnızca başka bir lanetle defedilebilir. Itadori Yuji sıradan bir lise hayatı yaşamakla birlikte çok büyük bir fiziksel güce sahiptir. Bir gün, lanetlerce saldırıya uğrayan bir arkadaşını kurtarmak için İki Yüzlü Hayalet’in parmağını yer ve laneti kendi ruhuna alır. Artık İki Yüzlü Hayalet ile aynı bedeni paylaşmaktadır. Büyücülerin en güçlüsü olan Gojo Satoru’nun yönlendirmesiyle, lanetlerle savaşan bir organizasyon olan Tokyo Büyükşehir Teknik Büyücülük Lisesi’ne kabul edilir. Böylece, bir laneti def etmek için lanete dönüşen çocuğun kahramanlık masalı; asla geri dönemeyeceği hayatı başlar.",
@@ -523,8 +523,24 @@
 	"isim": "Classroom of the Elite 2. Sezon",
 	"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
 	"bilgi": "Classroom of the Elite 2. Sezonudur. Kōdo Ikusei Lisesi, ayrıcalıklarla dolu bir okuldur. Bu okulda giyim, kuşam, saç tarzı, takılar vb... gibi konuların bir önemi yoktur. Her şey sizin yaratıcılığınıza bırakılmıştır. Ülkedeki en gelişmiş tesislere sahip olan Ikusei Lisesi\'nin öğrencileri, üniversiteye girme ya da iş bulma konusunda neredeyse hiçbir zaman sıkıntı çekmemektedir. Kısacası bu lise tam da hayallerinizdeki gibidir. Tek bir farkla. Bu ayrıcalıklardan yalnızca en üstün öğrenciler faydalanmaktadır.rnKahramanımız Kiyotaka Ayanokōji da bu liseye kayıt olmak için başvuranlar arasındadır. Fakat dikkatsizliği yüzünden başarısız olarak çöplerin sınıfı olarak adlandırılan D sınıfına atılır. Ne var ki burada tanıştığı Suzune Horikit, Kikyō Kushida ve diğer iki öğrenciyle beraber Kiyotaka\''nın durumu da yavaşça değişmeye başlayacaktır.",
-	"kategori": "Dram,Komedi,null,null",
+	"kategori": "Dram,Komedi, , ",
 	"tarih": "2022",
 	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/5AF4hhHYRB9lQiluH5SwgkeXq8K.jpg"
+	},
+	{
+	"isim": "Vinland Saga 2. Sezon",
+	"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/8D4VmgK82ZrRXiLBiiakph6H58r.jpg",
+	"bilgi": "Vinland Saga 2. Sezonudur. Binlerce yıldır Vikingler, şiddet yanlısı en güçlü soylardan biri olarak kendilerine ad yapmışlardır. Vikinglerin en iyi savaşçılarından birinin oğlu olan Thorfinn, derinden beslediği intikam arzusunu yerine getirmek için yeteneklerini geliştireceği savaş alanlarında çocukluğunu geçirir.",
+	"kategori": "Tarihi,Aksiyon,Macera,Dram",
+	"tarih": "2023",
+	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/5OrRePcI82PqEUnRUkgSP6piNyb.jpg"
+	},
+	{
+	"isim": "Shingeki no Kyojin 4. Sezon 3. Kısım",
+	"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/xowfV2ctHYpIHpNDl7zKWOreEMb.jpg",
+	"bilgi": "Shingeki No Kyojin 4. Sezon 3. Kısmıdır.",
+	"kategori": "Aksiyon,Macera,Gizem,Askeri",
+	"tarih": "2023",
+	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/twuD9EkzddXunz8DumLuJFHSPmQ.jpg"
 	}
 ]
