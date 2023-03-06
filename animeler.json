@@ -179,7 +179,7 @@
 		"isim": "Chainsaw Man",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/1sJ3FvrSCP3MsToPaXWxhbUfkWa.jpg",
 		"bilgi": "Denji\u0027nin babası ölünce büyük bir borç üstüne kalır ve bunu ödeyebilmesinin hiçbir yolu yoktur. Ancak kurtardığı Pochita isimli iblis köpek sayesinde iblis avcılığı yaparak borcunu azar azar kapatır. Pochita\u0027nın testere güçleri iblislere karşı işe yarıyordur. Denji öldüğünde Pochita kendini feda edip onu diriltir. Fakat Denji artık eskisi gibi insan değildir. O artık Testere Adam!",
-		"kategori": "Aksiyon,Korku,Şeytanlar,Fantezi",
+		"kategori": "Aksiyon,Korku,null,null",
 		"tarih": "2022",
 		"banner": "https://pbs.twimg.com/media/FFql4HeUcAgMeeI.jpg"
 	},
@@ -251,7 +251,7 @@
 		"isim": "Lycoris Recoil",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/dfGf0Ti3BEKpBpVCVtEXKTjQjNR.jpg",
 		"bilgi": "Tokyo’da lezzetli kahve servisi, harika tatlı ikramları ve daha da fazlasını sunan bir Japon kafesi mi? Teslimatlardan, refakatçiliğe, zombileri def edip dev canavarla savaşmaya kadar her şey burada!",
-		"kategori": "Aksiyon,Macera,Komedi,Okul",
+		"kategori": "Aksiyon,Komedi,Okul,null",
 		"tarih": "2022",
 		"banner": "http://ii.yakuji.moe/a/src/1658595696081.jpg"
 	},
@@ -299,7 +299,7 @@
 		"isim": "Horimiya",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg",
 		"bilgi": "Okulda sevecenliği ve akademik başarılarıyla bilinen liseli Kyouko Hori, aslında gizli bir yanını saklıyor. Hori\u0027nin ailesi sık sık iş nedeniyle evden uzaktayken, onun küçük erkek kardeşine bakması ve ev işlerini yapmak zorunda oluşu okulda sosyalleşmesine engel oluyor. O esnada, Izumi Miyamura ise üzerinde kara bulutlar dolaşan gözlüklü bir otaku olarak biliniyor. Fakat aslında ders çalışma becerisi olmayan nazik bir kişiliğe sahiptir. Ayrıca uzun saçlarının ardında sakladığı dokuz piercingi ve sırtında ve sol omzunda da bir dövmesi vardır. Tamamıyla şans eseri olarak, Hori ve Miyamura okul dışında karşılaşırlar. Görünen o ki bu iki zıt kutup arkadaş olurlar ve kimseye göstermedikleri yanlarını paylaşırlar.",
-		"kategori": "Romantizm,Okul,Komedi,Dram",
+		"kategori": "Romantizm,Okul,Komedi,null",
 		"tarih": "2021",
 		"banner": "https://randomc.net/image/Horimiya/Horimiya%20-%2009%20-%20Large%2001.jpg"
 	},
@@ -307,7 +307,7 @@
 		"isim": "Jujutsu Kaisen",
 		"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
 		"bilgi": "Bir çocuk… “doğru ölüm” için savaşır. Zorluklar, pişmanlık, utanç… İnsanların hissettiği olumsuz duygular günlük hayatımızda gizlenen lanetlere dönüşür. Lanetler tüm dünyaya yayılır; insanları korkunç bir talihsizliğe, hatta ölüme götürebilir. Dahası, lanetler yalnızca başka bir lanetle defedilebilir. Itadori Yuji sıradan bir lise hayatı yaşamakla birlikte çok büyük bir fiziksel güce sahiptir. Bir gün, lanetlerce saldırıya uğrayan bir arkadaşını kurtarmak için İki Yüzlü Hayalet’in parmağını yer ve laneti kendi ruhuna alır. Artık İki Yüzlü Hayalet ile aynı bedeni paylaşmaktadır. Büyücülerin en güçlüsü olan Gojo Satoru’nun yönlendirmesiyle, lanetlerle savaşan bir organizasyon olan Tokyo Büyükşehir Teknik Büyücülük Lisesi’ne kabul edilir. Böylece, bir laneti def etmek için lanete dönüşen çocuğun kahramanlık masalı; asla geri dönemeyeceği hayatı başlar.",
-		"kategori": "Aksiyon,Macera,Okul,Şeytanlar",
+		"kategori": "Aksiyon,Okul,Şeytanlar,null",
 		"tarih": "2020",
 		"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg"
 	},
@@ -542,5 +542,13 @@
 	"kategori": "Aksiyon,Macera,Gizem,Askeri",
 	"tarih": "2023",
 	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/twuD9EkzddXunz8DumLuJFHSPmQ.jpg"
+	},
+	{
+	"isim": "Ben 10: Alien Force",
+	"afis": "https://www.themoviedb.org/t/p/w440_and_h660_face/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg",
+	"bilgi": "Beş yıl sonra, 15 yaşındaki Ben Tennyson bir kez daha Omnitrix'i takmayı seçer ve bunun DNA'sını yeniden yapılandırdığını ve şimdi onu 10 yeni uzaylıya dönüştürebileceğini keşfeder. Süper güçlü kuzeni Gwen Tennyson ve onun kadar güçlü eski düşmanı Kevin Levin'in de katıldığı Ben, kayıp büyükbabası Max'i bulma görevindedir. Büyükbabasını kurtarmak için Ben, Dünya gezegeninden başlayarak galaksiyi yok etmeye kararlı güçlü bir uzaylı ırkı olan şeytani Dnaliens'i yenmelidir.",
+	"kategori": "Aksiyon,Macera,Aile,Bilim Kurgu",
+	"tarih": "2008",
+	"banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/gm6SDkSEdar6GOmIv7kwXQFYAv4.jpg"
 	}
 ]
