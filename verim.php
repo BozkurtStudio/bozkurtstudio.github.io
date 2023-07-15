@@ -1,6 +1,4 @@
 
-https://api.themoviedb.org/3/tv/1459?api_key=9fe4d6dc1fc8313108d7d43861987347&language=tr&append_to_response=seasons
-
 <?php
 
 // TMDb API anahtarınız
