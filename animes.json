@@ -1,0 +1,345 @@
+[
+  {
+    "id": "1429",
+    "name": "Shingeki No Kyojin",
+    "category": "Aksiyon,Dram,Askeri,Gerilim",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/aiy35Evcofzl7hASZZvsFgltHTX.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/3zt7xPU8pn5wpc17OScVDrGgV5X.jpg"
+  },
+  {
+    "id": "13916",
+    "name": "Death Note",
+    "category": "Doğaüstü,Gerilim",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/at1Dep4erbbnuYNJ1ZK6tQqRczL.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/brO0acsI82ikvp7S0yszhbUupiF.jpg"
+  },
+  {
+    "id": "85937",
+    "name": "Kimetsu No Yaiba",
+    "category": "Aksiyon,Fantezi,Tarihsel",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/iBAtBLqCMON3NPIjyQ1wdMbpTAk.jpg"
+  },
+  {
+    "id": "45790",
+    "name": "JoJo no Kimyou na Bouken",
+    "category": "Aksiyon,Macera,Doğaüstü",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/wGiz5W6cdmHgS0gqZUcQ2yLsnyx.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg"
+  },
+  {
+    "id": "105009",
+    "name": "Tokyo Revengers",
+    "category": "Aksiyon,Dram,Doğaüstü",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/1VZ8gN6tPoAd7EdfCzVPmtDczhD.jpg"
+  },
+  {
+    "id": "61374",
+    "name": "Tokyo Ghoul",
+    "category": "Aksiyon,Fantezi,Korku,Gerilim",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/32nuIQgFsu1SVcVJX7AFnZnw21u.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w500_and_h282_face/jnwRlthXIgJB75Mt9GEl93Dczki.jpg"
+  },
+  {
+    "id": "61223",
+    "name": "Akame ga Kill!",
+    "category": "Aksiyon,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/2E2gUv9aaG5snETKuK7KzoCUPY0.jpg"
+  },
+  {
+    "id": "120089",
+    "name": "Spy x Family",
+    "category": "Aksiyon,Ödüllü,Komedi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg"
+  },
+  {
+    "id": "4686",
+    "name": "Ben 10",
+    "category": "",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/qVBQynX6J9gtYWVwqbfNKVe0kYU.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg"
+  },
+  {
+    "id": "88803",
+    "name": "Vinland Saga",
+    "category": "Aksiyon,Macera,Dram",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/dGZtPUln1X8hHhpW6dgTFklQi5q.jpg"
+  },
+  {
+    "id": "114410",
+    "name": "Chainsaw Man",
+    "category": "Aksiyon,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/1sJ3FvrSCP3MsToPaXWxhbUfkWa.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/Vq4L8A88fNQxBqM27xHtDi4DrL.jpg"
+  },
+  {
+    "id": "42589",
+    "name": "Another",
+    "category": "Korku,Gizem,Doğaüstü",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/cwaEn7Gg11avVtn1BZ5qaFV1aEd.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/lKBPVvU91ireOQoneOy2qSdnMgW.jpg"
+  },
+  {
+    "id": "30984",
+    "name": "Bleach",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/7q9mQv1uiAH5yYJv18trEIglqGi.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/joisrBYfaedQoUhB8yk9IuXU2d2.jpg"
+  },
+  {
+    "id": "15575",
+    "name": "Bleach: Memories of Nobody",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/1QXGWJ0bsmbMUDBXXfS1RnFadkS.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/w8nkwwwNrV433PCkIiE2tP1ARtm.jpg"
+  },
+  {
+    "id": "17101",
+    "name": "Bleach The Movie: The Diamond Dust Rebellion",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/1PV8OKvHSYvgmdVnU2wcuzQGthP.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/vTTTVK44UVpi2HtE1DbKkgiMpAk.jpg"
+  },
+  {
+    "id": "17165",
+    "name": "Bleach The Movie: Fade to Black",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/bX6kcCvUAbSPFXWEtGoYsl6CfaD.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/xZYPpL6uYy5KUK85HgqA9PuXuID.jpg"
+  },
+  {
+    "id": "73245",
+    "name": "Bleach: Hell Verse",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/pd7V5iCB19VBPJkihxFXFwSRW2M.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/rUYPBaQqtpt2IdvzHdIrsYn29mk.jpg"
+  },
+  {
+    "id": "112613",
+    "name": "Ousama Ranking",
+    "category": "Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/pU3PK0yG5cMWNwvkJcEljDndGrd.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/drYqIJgwAB6QS2N7DhSBXNdTUgo.jpg"
+  },
+  {
+    "id": "154494",
+    "name": "Lycoris Recoil",
+    "category": "Aksiyon",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/dfGf0Ti3BEKpBpVCVtEXKTjQjNR.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg"
+  },
+  {
+    "id": "82739",
+    "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "category": "Dram,Romantik,Doğaüstü",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/cU4jHfo1Q9AEPnFqFqtuSA74gdi.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/4C9RrWUqB2MYugLfQ0cximYwhet.jpg"
+  },
+  {
+    "id": "138357",
+    "name": "Yofukashi no Uta",
+    "category": "Romantik,Doğaüstü",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/leHfHA4tSA9WkM4UafjzDzsS5DZ.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/YAlvgEyJR1a0IuMbYA6vdE3uyF.jpg"
+  },
+  {
+    "id": "83121",
+    "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "category": "Komedi,Romantik",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/lMpWexSeAhtEho2KSSa1rhCUuAd.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/dJ8yrSokdTMnhKJw06MllSfCegb.jpg"
+  },
+  {
+    "id": "110070",
+    "name": "Horimiya",
+    "category": "Romantik,Dram",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/4u64tHtUkna1y4OkJcrXLEhhLLy.jpg"
+  },
+  {
+    "id": "95479",
+    "name": "Jujutsu Kaisen",
+    "category": "Aksiyon,Ödüllü,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg"
+  },
+  {
+    "id": "810693-0",
+    "name": "Jujutsu Kaisen 0 Movie",
+    "category": "Aksiyon,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/7phcGGiYRrEQDHWB0cBwgtt3dkY.jpg"
+  },
+  {
+    "id": "119495",
+    "name": "Kage no Jitsuryokusha ni Naritakute!",
+    "category": "Komedi,Bilim Kurgu & Fantazi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/htD5SJpPOvkmAowU80KrWnN59WO.jpg"
+  },
+  {
+    "id": "31911",
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "category": "Aksiyon,Komedi,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg"
+  },
+  {
+    "id": "46260",
+    "name": "Naruto",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/koY8N9Y8IcLlb2eJXz50X1hFUL5.jpg"
+  },
+  {
+    "id": "31910",
+    "name": "Naruto: Shippuuden",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/8OXCF1vdFjU5hRs92uH1x9boUi9.jpg"
+  },
+  {
+    "id": "20982",
+    "name": "Naruto Shippuuden: Movie 1",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/5TFbqPtlOPEpe1ucQkMzJHLqw41.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/y3XMIea7mwTzxt3NFFXi5YJKeFJ.jpg"
+  },
+  {
+    "id": "17581",
+    "name": "Naruto Shippuuden: Movie 2 - Kizuna",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/bBqEiQbbfyt4MWR3NhDZMbS4Wp8.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/xzIaIFXs14vr5BGoAQ2IJsQ60EB.jpg"
+  },
+  {
+    "id": "36728",
+    "name": "Naruto Shippuuden: Movie 3 - Hi no Ishi wo Tsugu Mono",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/csSsO9oXTIpOVxA3xXYbEzd6IKy.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/2HamMmwWN5Spc7cTaV9uDEY1tHS.jpg"
+  },
+  {
+    "id": "50723",
+    "name": "Naruto Shippuuden: Movie 4 - The Lost Tower",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/9O5tcb7bcIUjgUG24nnlCPMBFHd.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/a4MrZ711OIObIhSGF8SqcZQTyZo.jpg"
+  },
+  {
+    "id": "75624",
+    "name": "Naruto Shippuuden: Movie 5 - Blood Prison",
+    "category": "Aksiyon,Macera,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/4WT7zYFpe0fsbg6TitppiHddWAh.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/Abv3ZtGV2NXxPimArb3LDLg2bDH.jpg"
+  },
+  {
+    "id": "86031",
+    "name": "Dr. Stone",
+    "category": "Macera,Komedi,Bilim Kurgu",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/64DIVpWiGlvvJczMnyu8jojSYKm.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/ty7JiHOBnD0UV88m1eudJvPQNXg.jpg"
+  },
+  {
+    "id": "246",
+    "name": "Avatar",
+    "category": "",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/kU98MbVVgi72wzceyrEbClZmMFe.jpg"
+  },
+  {
+    "id": "63926",
+    "name": "One Punch Man",
+    "category": "Aksiyon,Komedi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/3x7GZI2QCc0I7I2yGjV2iL1KDAg.jpg"
+  },
+  {
+    "id": "45950",
+    "name": "High School DxD",
+    "category": "Aksiyon,Komedi,Fantezi,Romantik",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/yMYvz4vbKMIXb2IMYYi1GSlNaGx.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/u8QK47ttafn3iYox9o1dKyEEhcv.jpg"
+  },
+  {
+    "id": "67043",
+    "name": "91 Days",
+    "category": "Aksiyon,Dram",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/d2Ly2UovZ2C2wgHRpctopM8KyMf.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/nPM6b1R0sI3Amk3zrtW1ohpCj0N.jpg"
+  },
+  {
+    "id": "65249",
+    "name": "Boku dake ga Inai Machi",
+    "category": "Gizem,Doğaüstü,Gerilim",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/EljUwZJhpuYfVuSfqY8Pt1xxpH.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/fBU6tguE3GwfyQgXagwBrOUGuA5.jpg"
+  },
+  {
+    "id": "30981",
+    "name": "Monster",
+    "category": "Dram,Gizem,Gerilim",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/wmEo6OnNrF2sP5piTpggpSJnSAD.jpg"
+  },
+  {
+    "id": "99071",
+    "name": "Kaifuku Jutsushi no Yarinaoshi",
+    "category": "Macera,Dram,Fantezi,Erotik",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/a5IDQtt7SgLbLtY7YGYVp1XvRng.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/xsctRrDmbbw1mYgHU3h81zyM1sW.jpg"
+  },
+  {
+    "id": "378064",
+    "name": "Koe no Katachi",
+    "category": "Ödüllü,Dram",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg"
+  },
+  {
+    "id": "72517",
+    "name": "Classroom of the Elite",
+    "category": "Dram",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg"
+  },
+  {
+    "id": "6040",
+    "name": "Ben 10: Alien Force",
+    "category": "",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/gm6SDkSEdar6GOmIv7kwXQFYAv4.jpg"
+  },
+  {
+    "id": "372058",
+    "name": "Your Name",
+    "category": "Ödüllü,Dram,Doğaüstü",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg"
+  },
+  {
+    "id": "75214",
+    "name": "Violet Evergarden",
+    "category": "Dram,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/61EwFPqc0r1uJo6la49J55F8bQ8.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/9ZdsHywMjTosJogdixIkbeZCEbO.jpg"
+  },
+  {
+    "id": "83095",
+    "name": "Tate no Yuusha no Nariagari",
+    "category": "Aksiyon,Macera,Dram,Fantezi",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/qykovt3OZj5SJCpELWovvv8TfqW.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/mCQNV4LZWhIpWhLqjIjC13S5lNq.jpg"
+  },
+  {
+    "id": "72305",
+    "name": "Kakegurui",
+    "category": "Dram,Gizem",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/qykovt3OZj5SJCpELWovvv8TfqW.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/xPVCpIgD9w8AuMiK0EkAEetFVfN.jpg"
+  }
+]
