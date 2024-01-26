@@ -1,5 +1,18 @@
 [
   {
+    "id": "95479",
+    "name": "Jujutsu Kaisen",
+    "category": "Aksiyon,Ödüllü,Fantezi",
+    "info": "Bir çocuk… “doğru ölüm” için savaşır.rnrnZorluklar, pişmanlık, utanç… İnsanların hissettiği olumsuz duygular günlük hayatımızda gizlenen lanetlere dönüşür. Lanetler tüm dünyaya yayılır; insanları korkunç bir talihsizliğe, hatta ölüme götürebilir. Dahası, lanetler yalnızca başka bir lanetle defedilebilir.rnrnItadori Yuji sıradan bir lise hayatı yaşamakla birlikte çok büyük bir fiziksel güce sahiptir. Bir gün, lanetlerce saldırıya uğrayan bir arkadaşını kurtarmak için İki Yüzlü Hayalet’in parmağını yer ve laneti kendi ruhuna alır. Artık İki Yüzlü Hayalet ile aynı bedeni paylaşmaktadır. Büyücülerin en güçlüsü olan Gojo Satoru’nun yönlendirmesiyle, lanetlerle savaşan bir organizasyon olan Tokyo Büyükşehir Teknik Büyücülük Lisesi’ne kabul edilir. Böylece, bir laneti def etmek için lanete dönüşen çocuğun kahramanlık masalı; asla geri dönemeyeceği hayatı başlar.",
+    "date": "2020",
+    "rate": "8.5",
+    "seasons": "2",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/pvl4pworSYkroGrfCEj0WlgzTYo.jpg",
+    "trailers": "pkKu9hLT-t8,9OhV3IWUsxE"
+  },
+  {
     "id": "1429",
     "name": "Shingeki No Kyojin",
     "category": "Aksiyon,Dram,Gerilim",
@@ -13,17 +26,17 @@
     "trailers": "MGRm4IzK1SQ,hAzoApdhXrw,TX2Y2m7NoZg,MW8TEMC6jS8"
   },
   {
-    "id": "13916",
-    "name": "Death Note",
-    "category": "Doğaüstü,Gerilim",
-    "info": "Yagami Light, üniversite giriş sınavlarına hazırlanan bir lise son sınıf öğrencisidir. Light (Raito), Japonya'nın belki de en yetenekli ve zeki öğrencisi olmasına rağmen, yaşadığı dünya ona tat vermemektedir. Her gün gittikçe artan suç oranı ve adalet sisteminin çökmüşlüğü, onun için bu dünyayı daha da anlamsız ve çürümüş kılmaktadır. Bu yüzden de, hiç bir şeyde anlam görmemektedir.\n\nLight, bu buhranlarını kendi içinde yaşarken, ders sırasında bir defterin gökten düştüğünü görür. Okul çıkışı elinde olmadan defterin düştüğü yere yönelir. Defterin üstünde \"Death Note\" yazmaktadır. Defteri yerden alıp incelediğinde hiç de inanacağı şeylerle karşılaşmaz.\n\n\"Bu deftere ismi yazılan insan ölecektir.\"\n\nNedenini kendi bile bilmeden, defteri alıp evine döner. Evde haberleri izlerken, bir adamın bir anaokulundaki öğrencileri ve öğretmenleri rehin aldığını izler. Defterin gerçekliğini test etmek için rehin alan adamın adını deftere yazar. Ve 40 saniye sonra adam ölür.\n\nDefterin gerçekliği karşısında şaşkına dönen Light, kendi ideal dünyasını yaratmak için diğer suçlulara yönelecektir. Ama ya dünya onun varlığını öğrenip peşine dünyanın en iyi dedektifi L'i takarsa?",
-    "date": "2006",
-    "rate": "8.9",
-    "seasons": "1",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/at1Dep4erbbnuYNJ1ZK6tQqRczL.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/brO0acsI82ikvp7S0yszhbUupiF.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/zTeJu4pV7m8bLeEwOb5c3fhq1Wq.jpg",
-    "trailers": "NlJZ-YgAt-c"
+    "id": "88803",
+    "name": "Vinland Saga",
+    "category": "Aksiyon,Macera,Dram",
+    "info": "Binlerce yıldır Vikingler, şiddet yanlısı en güçlü soylardan biri olarak kendilerine ad yapmışlardır. Vikinglerin en iyi savaşçılarından birinin oğlu olan Thorfinn, derinden beslediği intikam arzusunu yerine getirmek için yeteneklerini geliştireceği savaş alanlarında çocukluğunu geçirir.",
+    "date": "2019",
+    "rate": "8.8",
+    "seasons": "2",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/dGZtPUln1X8hHhpW6dgTFklQi5q.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/epeKkcetNXp6s4J4iRHpe92ahCN.jpg",
+    "trailers": "f8JrZ7Q_p-8,Ph50sNkApVM,VHGotYh6hPM"
   },
   {
     "id": "85937",
@@ -52,6 +65,19 @@
     "trailers": "bFwdl2PDAFM"
   },
   {
+    "id": "46260",
+    "name": "Naruto",
+    "category": "Aksiyon,Macera,Fantezi",
+    "info": "Naruto, içine hapsedilmiş kyubii (9 kuyruklu efsanevi tilki) yüzünden Konoha halkı tarafından yaratık olarak görülüp kenara itilmiş bir çocuktur. Naruto'nun bütün hedefi Ninja akademisini bitirip, Hokage olmaktır.\n\nAkademi'nin ilk bölümünü bitirip genin olarak mezun olan Naruto, arkadaşları Sakura ve Sasuke ile chunin olabilmek için yeni eğitimlerine başlarlar.\n\nYaramaz ve bir o kadar heyecanlı bir kişiliğe sahip olan Naruto, içindeki kyuubinin gücünü yavaş yavaş öğrenecektir.",
+    "date": "2002",
+    "rate": "8.4",
+    "seasons": "4",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/koY8N9Y8IcLlb2eJXz50X1hFUL5.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+    "trailers": "-G9BqkgZXRA"
+  },
+  {
     "id": "45790",
     "name": "JoJo's Bizarre Adventure",
     "category": "Aksiyon,Macera,Doğaüstü",
@@ -78,17 +104,43 @@
     "trailers": "idlLFNNpZiI"
   },
   {
-    "id": "61374",
-    "name": "Tokyo Ghoul",
-    "category": "Aksiyon,Fantezi,Korku,Gerilim",
-    "info": "Tokyo'da insanları yiyen gizemli hortlakların neden olduğu gerilim dolu bir korku hikayesi başlar. Bu gizemli hortlakların verdiği korku tüm insanları etkisi altına almıştır. Sıradan bir üniversite öğrencisi olan Kaneki, tıpkı kendisi gibi bir kitap kurdu olan Rize'yle Café Anteiku'da karşılaşır. Kaneki, kaderinin bir gecede değişeceğinin farkında değildir.",
-    "date": "2014",
-    "rate": "7.7",
-    "seasons": "4",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w500_and_h282_face/jnwRlthXIgJB75Mt9GEl93Dczki.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
-    "trailers": "vGuQeQsoRgU,v9fgZUBfZjk,UUeqpuZobBw"
+    "id": "114410",
+    "name": "Chainsaw Man",
+    "category": "Aksiyon,Fantezi",
+    "info": "Denji'nin babası ölünce büyük bir borç üstüne kalır ve bunu ödeyebilmesinin hiçbir yolu yoktur. Ancak kurtardığı Pochita isimli iblis köpek sayesinde iblis avcılığı yaparak borcunu azar azar kapatır. Pochita'nın testere güçleri iblislere karşı işe yarıyordur. Denji öldüğünde Pochita kendini feda edip onu diriltir. Fakat Denji artık eskisi gibi insan değildir. O artık Testere Adam!",
+    "date": "2022",
+    "rate": "8.4",
+    "seasons": "1",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/Vq4L8A88fNQxBqM27xHtDi4DrL.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
+    "trailers": "l96zmDlWCBk,OatDU-PgJQE,mWacdcatC9o"
+  },
+  {
+    "id": "86031",
+    "name": "Dr. Stone",
+    "category": "Macera,Komedi,Bilim Kurgu",
+    "info": "Kaçınılmaz bir günde, tüm insanlık kör edici bir ışık parlamasıyla donakalmıştı. Birkaç bin yıl sonra, Liseli Taiju uyanır ve kendini heykellerin dünyasında kaybolmuş şekilde bulur. Ama, yanlız değildir! Onun Bilime aşık arkadaşı Senku kalkmış ve bir kaç aydır çalışıyordu ve bilimin gücüyle medeniyeti yeniden inşa etmek için aklında bir fikri vardı.",
+    "date": "2019",
+    "rate": "8.1",
+    "seasons": "3",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/ty7JiHOBnD0UV88m1eudJvPQNXg.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/px8w8DstjI8AOaWYqLc6BQngUvL.jpg",
+    "trailers": "7YZzYeBartM,kNYKY5L0s10,bXgip0F6qdc"
+  },
+  {
+    "id": "13916",
+    "name": "Death Note",
+    "category": "Doğaüstü,Gerilim",
+    "info": "Yagami Light, üniversite giriş sınavlarına hazırlanan bir lise son sınıf öğrencisidir. Light (Raito), Japonya'nın belki de en yetenekli ve zeki öğrencisi olmasına rağmen, yaşadığı dünya ona tat vermemektedir. Her gün gittikçe artan suç oranı ve adalet sisteminin çökmüşlüğü, onun için bu dünyayı daha da anlamsız ve çürümüş kılmaktadır. Bu yüzden de, hiç bir şeyde anlam görmemektedir.\n\nLight, bu buhranlarını kendi içinde yaşarken, ders sırasında bir defterin gökten düştüğünü görür. Okul çıkışı elinde olmadan defterin düştüğü yere yönelir. Defterin üstünde \"Death Note\" yazmaktadır. Defteri yerden alıp incelediğinde hiç de inanacağı şeylerle karşılaşmaz.\n\n\"Bu deftere ismi yazılan insan ölecektir.\"\n\nNedenini kendi bile bilmeden, defteri alıp evine döner. Evde haberleri izlerken, bir adamın bir anaokulundaki öğrencileri ve öğretmenleri rehin aldığını izler. Defterin gerçekliğini test etmek için rehin alan adamın adını deftere yazar. Ve 40 saniye sonra adam ölür.\n\nDefterin gerçekliği karşısında şaşkına dönen Light, kendi ideal dünyasını yaratmak için diğer suçlulara yönelecektir. Ama ya dünya onun varlığını öğrenip peşine dünyanın en iyi dedektifi L'i takarsa?",
+    "date": "2006",
+    "rate": "8.9",
+    "seasons": "1",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/at1Dep4erbbnuYNJ1ZK6tQqRczL.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/brO0acsI82ikvp7S0yszhbUupiF.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/zTeJu4pV7m8bLeEwOb5c3fhq1Wq.jpg",
+    "trailers": "NlJZ-YgAt-c"
   },
   {
     "id": "61223",
@@ -115,58 +167,6 @@
     "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg",
     "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/rz4M99xKQv1tIGhRHYEMH6gM0do.jpg",
     "trailers": "6sosTNRw_uQ,ofXigq9aIpo,W2tMsaAVjD0"
-  },
-  {
-    "id": "4686",
-    "name": "Ben 10",
-    "category": "Aksiyon,Macera",
-    "info": "10 yaşındaki Ben Tennyson, gizemli bir saati keşfettiğinde her biri olağanüstü güçlere sahip bir dizi farklı yaratığa dönüşebilme gücü kazanır. Ben, bu güçleri insanlara yardım etmek ve kötüleri durdurmak için kullanması gerektiğinin farkındadır. Ne kadar süper güçlere sahipte olsa Ben Tennyson’ın, 10 yaşında yaramaz bir çocuk olduğunu unutmamak gerekir.",
-    "date": "2005",
-    "rate": "7.5",
-    "seasons": "4",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/qVBQynX6J9gtYWVwqbfNKVe0kYU.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/gHoE5UByMIjbhBnbYxezrCVGwCL.jpg",
-    "trailers": "te0fRZyFQ-I"
-  },
-  {
-    "id": "88803",
-    "name": "Vinland Saga",
-    "category": "Aksiyon,Macera,Dram",
-    "info": "Binlerce yıldır Vikingler, şiddet yanlısı en güçlü soylardan biri olarak kendilerine ad yapmışlardır. Vikinglerin en iyi savaşçılarından birinin oğlu olan Thorfinn, derinden beslediği intikam arzusunu yerine getirmek için yeteneklerini geliştireceği savaş alanlarında çocukluğunu geçirir.",
-    "date": "2019",
-    "rate": "8.8",
-    "seasons": "2",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/dGZtPUln1X8hHhpW6dgTFklQi5q.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/epeKkcetNXp6s4J4iRHpe92ahCN.jpg",
-    "trailers": "f8JrZ7Q_p-8,Ph50sNkApVM,VHGotYh6hPM"
-  },
-  {
-    "id": "114410",
-    "name": "Chainsaw Man",
-    "category": "Aksiyon,Fantezi",
-    "info": "Denji'nin babası ölünce büyük bir borç üstüne kalır ve bunu ödeyebilmesinin hiçbir yolu yoktur. Ancak kurtardığı Pochita isimli iblis köpek sayesinde iblis avcılığı yaparak borcunu azar azar kapatır. Pochita'nın testere güçleri iblislere karşı işe yarıyordur. Denji öldüğünde Pochita kendini feda edip onu diriltir. Fakat Denji artık eskisi gibi insan değildir. O artık Testere Adam!",
-    "date": "2022",
-    "rate": "8.4",
-    "seasons": "1",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/Vq4L8A88fNQxBqM27xHtDi4DrL.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
-    "trailers": "l96zmDlWCBk,OatDU-PgJQE,mWacdcatC9o"
-  },
-  {
-    "id": "42589",
-    "name": "Another",
-    "category": "Korku,Gizem,Doğaüstü",
-    "info": "Orta okul son sınıf öğrencisi olan Mei Misaki, güzelliğiyle, zekasıyla ve kişiliğiyle okulun en popüler kızıdır. Fakat mezun olamadan bir kaza sonucu ölür. Bunun üzerine arkadaşları ve öğretmenler Misaki hala yaşıyormuş gibi hareket etmeye başlarlar. Hatta mezuniyet töreninde Misaki için de kutlama yapılır.\n\nBu olaydan 26 yıl sonra Sakikabara Kouichi aynı okula transfer öğrenci olarak gelir. Okulda yine Mei Misaki adıyla ve bir gözü bantlı esrarengiz bir kız öğrenci vardır. Diğer öğrenciler bu kız hakkında konuşmaktan kaçınırlar.\n\nKouichi, Misaki ile konuşmak için yanına gittiğinde Misaki, bu okuldaki öğrencilerin ölüme çok yakın olduğunu, yakında herşeyi öğreneceğini söyler ve uzaklaşır.",
-    "date": "2012",
-    "rate": "7.5",
-    "seasons": "1",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/cwaEn7Gg11avVtn1BZ5qaFV1aEd.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/lKBPVvU91ireOQoneOy2qSdnMgW.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/4vECBXIqHlprWvrN7a93gLiR6Us.jpg",
-    "trailers": "_U_57mzfjB4"
   },
   {
     "id": "30984",
@@ -260,6 +260,19 @@
     "trailers": "6zkM-oniRQ0"
   },
   {
+    "id": "61374",
+    "name": "Tokyo Ghoul",
+    "category": "Aksiyon,Fantezi,Korku,Gerilim",
+    "info": "Tokyo'da insanları yiyen gizemli hortlakların neden olduğu gerilim dolu bir korku hikayesi başlar. Bu gizemli hortlakların verdiği korku tüm insanları etkisi altına almıştır. Sıradan bir üniversite öğrencisi olan Kaneki, tıpkı kendisi gibi bir kitap kurdu olan Rize'yle Café Anteiku'da karşılaşır. Kaneki, kaderinin bir gecede değişeceğinin farkında değildir.",
+    "date": "2014",
+    "rate": "7.7",
+    "seasons": "4",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w500_and_h282_face/jnwRlthXIgJB75Mt9GEl93Dczki.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/b9JLwU8KPshCD5OhY2stwWl8c7c.jpg",
+    "trailers": "vGuQeQsoRgU,v9fgZUBfZjk,UUeqpuZobBw"
+  },
+  {
     "id": "82739",
     "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "category": "Dram,Romantik,Doğaüstü",
@@ -271,6 +284,19 @@
     "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/4C9RrWUqB2MYugLfQ0cximYwhet.jpg",
     "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/qNeSuXWUEx57yqz3uQOSYcWsi6Y.jpg",
     "trailers": ""
+  },
+  {
+    "id": "42589",
+    "name": "Another",
+    "category": "Korku,Gizem,Doğaüstü",
+    "info": "Orta okul son sınıf öğrencisi olan Mei Misaki, güzelliğiyle, zekasıyla ve kişiliğiyle okulun en popüler kızıdır. Fakat mezun olamadan bir kaza sonucu ölür. Bunun üzerine arkadaşları ve öğretmenler Misaki hala yaşıyormuş gibi hareket etmeye başlarlar. Hatta mezuniyet töreninde Misaki için de kutlama yapılır.\n\nBu olaydan 26 yıl sonra Sakikabara Kouichi aynı okula transfer öğrenci olarak gelir. Okulda yine Mei Misaki adıyla ve bir gözü bantlı esrarengiz bir kız öğrenci vardır. Diğer öğrenciler bu kız hakkında konuşmaktan kaçınırlar.\n\nKouichi, Misaki ile konuşmak için yanına gittiğinde Misaki, bu okuldaki öğrencilerin ölüme çok yakın olduğunu, yakında herşeyi öğreneceğini söyler ve uzaklaşır.",
+    "date": "2012",
+    "rate": "7.5",
+    "seasons": "1",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/cwaEn7Gg11avVtn1BZ5qaFV1aEd.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/lKBPVvU91ireOQoneOy2qSdnMgW.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/4vECBXIqHlprWvrN7a93gLiR6Us.jpg",
+    "trailers": "_U_57mzfjB4"
   },
   {
     "id": "138357",
@@ -312,19 +338,6 @@
     "trailers": "b7ZYm_LEJ6Y"
   },
   {
-    "id": "95479",
-    "name": "Jujutsu Kaisen",
-    "category": "Aksiyon,Ödüllü,Fantezi",
-    "info": "Bir çocuk… “doğru ölüm” için savaşır.rnrnZorluklar, pişmanlık, utanç… İnsanların hissettiği olumsuz duygular günlük hayatımızda gizlenen lanetlere dönüşür. Lanetler tüm dünyaya yayılır; insanları korkunç bir talihsizliğe, hatta ölüme götürebilir. Dahası, lanetler yalnızca başka bir lanetle defedilebilir.rnrnItadori Yuji sıradan bir lise hayatı yaşamakla birlikte çok büyük bir fiziksel güce sahiptir. Bir gün, lanetlerce saldırıya uğrayan bir arkadaşını kurtarmak için İki Yüzlü Hayalet’in parmağını yer ve laneti kendi ruhuna alır. Artık İki Yüzlü Hayalet ile aynı bedeni paylaşmaktadır. Büyücülerin en güçlüsü olan Gojo Satoru’nun yönlendirmesiyle, lanetlerle savaşan bir organizasyon olan Tokyo Büyükşehir Teknik Büyücülük Lisesi’ne kabul edilir. Böylece, bir laneti def etmek için lanete dönüşen çocuğun kahramanlık masalı; asla geri dönemeyeceği hayatı başlar.",
-    "date": "2020",
-    "rate": "8.5",
-    "seasons": "2",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/pvl4pworSYkroGrfCEj0WlgzTYo.jpg",
-    "trailers": "pkKu9hLT-t8,9OhV3IWUsxE"
-  },
-  {
     "id": "810693",
     "name": "Jujutsu Kaisen 0 Movie",
     "category": "Aksiyon,Fantezi",
@@ -362,19 +375,6 @@
     "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
     "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/bBDHtJnMpEpBFvGPKNInDa8KgjN.jpg",
     "trailers": "kx0nBaS_q50"
-  },
-  {
-    "id": "46260",
-    "name": "Naruto",
-    "category": "Aksiyon,Macera,Fantezi",
-    "info": "Naruto, içine hapsedilmiş kyubii (9 kuyruklu efsanevi tilki) yüzünden Konoha halkı tarafından yaratık olarak görülüp kenara itilmiş bir çocuktur. Naruto'nun bütün hedefi Ninja akademisini bitirip, Hokage olmaktır.\n\nAkademi'nin ilk bölümünü bitirip genin olarak mezun olan Naruto, arkadaşları Sakura ve Sasuke ile chunin olabilmek için yeni eğitimlerine başlarlar.\n\nYaramaz ve bir o kadar heyecanlı bir kişiliğe sahip olan Naruto, içindeki kyuubinin gücünü yavaş yavaş öğrenecektir.",
-    "date": "2002",
-    "rate": "8.4",
-    "seasons": "4",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
-    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/koY8N9Y8IcLlb2eJXz50X1hFUL5.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
-    "trailers": "-G9BqkgZXRA"
   },
   {
     "id": "31910",
@@ -453,19 +453,6 @@
     "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/Abv3ZtGV2NXxPimArb3LDLg2bDH.jpg",
     "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/ebGiYjczQYySEYbB4PWfmfmNReq.jpg",
     "trailers": "oxFc3ncZbX0"
-  },
-  {
-    "id": "86031",
-    "name": "Dr. Stone",
-    "category": "Macera,Komedi,Bilim Kurgu",
-    "info": "Kaçınılmaz bir günde, tüm insanlık kör edici bir ışık parlamasıyla donakalmıştı. Birkaç bin yıl sonra, Liseli Taiju uyanır ve kendini heykellerin dünyasında kaybolmuş şekilde bulur. Ama, yanlız değildir! Onun Bilime aşık arkadaşı Senku kalkmış ve bir kaç aydır çalışıyordu ve bilimin gücüyle medeniyeti yeniden inşa etmek için aklında bir fikri vardı.",
-    "date": "2019",
-    "rate": "8.1",
-    "seasons": "3",
-    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
-    "banner": "https://image.tmdb.org/t/p/w1000_and_h563_face/ty7JiHOBnD0UV88m1eudJvPQNXg.jpg",
-    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/px8w8DstjI8AOaWYqLc6BQngUvL.jpg",
-    "trailers": "7YZzYeBartM,kNYKY5L0s10,bXgip0F6qdc"
   },
   {
     "id": "246",
@@ -583,6 +570,19 @@
     "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
     "bannerslide": "",
     "trailers": "a84AQbBnZGM,a84AQbBnZGM,6Gx4pQ14HLk"
+  },
+  {
+    "id": "4686",
+    "name": "Ben 10",
+    "category": "Aksiyon,Macera",
+    "info": "10 yaşındaki Ben Tennyson, gizemli bir saati keşfettiğinde her biri olağanüstü güçlere sahip bir dizi farklı yaratığa dönüşebilme gücü kazanır. Ben, bu güçleri insanlara yardım etmek ve kötüleri durdurmak için kullanması gerektiğinin farkındadır. Ne kadar süper güçlere sahipte olsa Ben Tennyson’ın, 10 yaşında yaramaz bir çocuk olduğunu unutmamak gerekir.",
+    "date": "2005",
+    "rate": "7.5",
+    "seasons": "4",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/qVBQynX6J9gtYWVwqbfNKVe0kYU.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/gHoE5UByMIjbhBnbYxezrCVGwCL.jpg",
+    "trailers": "te0fRZyFQ-I"
   },
   {
     "id": "6040",
