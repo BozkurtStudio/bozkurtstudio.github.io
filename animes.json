@@ -1038,5 +1038,18 @@
     "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/8vuwZBH143HODfQgVMBrOvvQmNM.jpg",
     "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/oH80UEe1cluRD5UY1szQkAHQB6T.jpg",
     "trailers": "--v6zWSR_Ko,JFHzdtopvAg"
+  },
+  {
+    "id": "62273",
+    "name": "Scott Pilgrim Takes Off",
+    "category": "Aksiyon,Macera,Komedi,Bilim Kurgu",
+    "info": "Scott Pilgrim hayallerindeki kız Ramona Flowers'la tanışır. Ne var ki onun yedi şeytani eski sevgilisi aşklarına engel olur.",
+    "date": "2023",
+    "rate": "7.7",
+    "seasons": "1",
+    "poster": "https://www.themoviedb.org/t/p/w440_and_h660_face/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+    "banner": "https://www.themoviedb.org/t/p/w1000_and_h563_face/weo6T4zmgAhN7Jz9phX5sXHHcr5.jpg",
+    "bannerslide": "https://image.tmdb.org/t/p/w1280_and_h720_face/nKuAceNzPhUGaHe8a387gDjjUG4.jpg",
+    "trailers": "i_hYGPnB5O0"
   }
 ]
