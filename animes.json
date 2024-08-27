@@ -581,7 +581,7 @@
         "seasons": 4,
         "poster": "/qVBQynX6J9gtYWVwqbfNKVe0kYU.jpg",
         "banner": "/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg",
-        "bannerslide": "/gHoE5UByMIjbhBnbYxezrCVGwCL.jpg",
+        "bannerslide": "",
         "popularity": 321.577
     },
     {
@@ -1051,5 +1051,109 @@
         "banner": "/weo6T4zmgAhN7Jz9phX5sXHHcr5.jpg",
         "bannerslide": "/nKuAceNzPhUGaHe8a387gDjjUG4.jpg",
         "popularity": 189.179
+    },
+    {
+        "id": "62255",
+        "name": "Owari no Seraph",
+        "category": "Aksiyon,Dram,Fantezi",
+        "info": "Hikayemiz, bilinmeyen bir virüs yüzünden çocuklar hariç tüm insanların öldürüldüğü bir dünyada geçiyor. Bu çocuklarda daha sonra vampirler tarafından tutsak edilirler. Hikayemizin merkezindeki Yuichiro Hyakuya ise, birgün tüm vampirleri öldürmeye yeticek kadar güçlü olmayı hayal eden bir insan.",
+        "date": "2015-04-04",
+        "rate": 7.898,
+        "seasons": 2,
+        "poster": "/5IlxL2PfQ8CyY4TLRru9TcU56b3.jpg",
+        "banner": "/yz9fEOBPG5Ks3uPzPyFetQpR6QX.jpg",
+        "bannerslide": "",
+        "popularity": 120.44
+    },
+    {
+        "id": "248866",
+        "name": "My Deer Friend Nokotan",
+        "category": "Komedi",
+        "info": "Torako'nun eski bir serseri olduğunu kimse bilmiyordu. Tüm sınıf arkadaşları onu bir örnek öğrenci olarak tanıyordu. Ancak her şey Nokotan adında, boynuzları olan bir değişim öğrencisinin hayatına girmesiyle değişecekti. Nokotan'ı garip yapan tek şey boynuzları da değildi. Geyik burnu Torako'nun gizli geçmişinin kokusunu bile alabiliyordu! Okulda da tıpkı hayvanat bahçesinde olacağı gibi, ceylan gözlü bu kızın attığı her adımı kaos takip edecekti. Torako'nun aklında da bir sürü soru var! Nokotan bir kız mı, geyik mi yoksa ikisinin arasında bir şey mi?",
+        "date": "2024-07-07",
+        "rate": 8.783,
+        "seasons": 1,
+        "poster": "/dTNjwQLaclazxqx21voA50185Ri.jpg",
+        "banner": "/wd9FCguhc8MQDUZG7Pz2klzGBOL.jpg",
+        "bannerslide": "",
+        "popularity": 123.227
+    },
+    {
+        "id": "206629",
+        "name": "Days with My Stepsister",
+        "category": "Romantik",
+        "info": "Yuuta Asamura'nın, babası yeniden evlendikten sonra yeni bir üvey kız kardeşi olur; okulun bir numaralı güzeli olan Saki Ayase. Birbirlerine ne çok yakın ne de çok uzak olacaklarına, sadece belli belirsiz ve rahat bir mesafeyi koruyacaklarına dair söz verirler; kadın erkek ilişkilerine dair önemli değerleri ebeveynlerinin eski eşlerinden öğrenmişlerdir. Ailesi için tek başına çalışan Saki başkalarına nasıl güveneceğini bilmezken, Yuuta ona nasıl davranacağından emin değildir. Oldukça eşit bir zeminde duran bu ikili, yavaş yavaş birlikte yaşamanın rahatlığını öğrenir. Günler geçtikçe ilişkileri, iki yabancıdan iki arkadaş olmaya doğru ilerler. Belki de bu hikâye, arkadaşlıktan doğan aşkın ateşini harmanlayabilir.",
+        "date": "2024-07-04",
+        "rate": 7.4,
+        "seasons": 1,
+        "poster": "/81HdXCynJtZhgfHUz7XHmsf5j7Q.jpg",
+        "banner": "/hDNonguUASAjugMhnm5JeMu1gD8.jpg",
+        "bannerslide": "",
+        "popularity": 107.115
+    },
+    {
+        "id": "209867",
+        "name": "Sousou no Frieren",
+        "category": "Macera,Dram,Fantezi",
+        "info": "Büyücü Frieren, Kahraman Himmel, Rahip Heiter ve Cengâver Eisen'den oluşan kahraman ekibi, Şeytan Kral'ı alt eder ve dağılmadan önce evin yolunu tutarlar. Döndüklerinde ise yaklaşık on yıl süren yolculuklarını yâd ederler fakat elfler için on yıl, diğerlerine kıyasla çok kısa bir zaman dilimidir. Bu yüzden Frieren yoldaşlarının yavaş yavaş birer birer öldüğüne şahit olur. Heiter ömrünün sonlarına yaklaştığında Fern adında küçük bir kızı Frieren'in çırağı yapar. Bir sürü büyü toplamak yola çıkan bu ikili, eski kahraman ekibinin ziyaret ettiği yerleri tekrar ziyaret ederek amacı olmayan bir yola koyulur. Yolculukları boyunca Frieren, rahmetli olan yoldaşlarıyla daha derin bağlar kurmak için teptiği fırsatlardan duyduğu pişmanlıklarla yavaş yavaş yüzleşir.",
+        "date": "2023-09-29",
+        "rate": 8.9,
+        "seasons": 1,
+        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "banner": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
+        "bannerslide": "/9egkYIBkJiI2jajspkEmneXaLSh.jpg",
+        "popularity": 426.829
+    },
+    {
+        "id": "220542",
+        "name": "Kusuriya no Hitorigoto",
+        "category": "Dram,Gizem",
+        "info": "Maomao, eczacı olan babasıyla huzurlu bir hayat yaşıyordu. Ta ki bir gün saraya adi bir hizmetçi olarak satılana kadar. Ancak kraliyet ailesinin arasında uyumlu bir hayat yaşamaya uygun değildi. Bu yüzden imparatorluk varisleri hastalandığında, öne atılmaya ve bir tedavi bulmaya karar verir. Bu, onu terfi ettiren yakışıklı hadım ağası Jinşi'nin dikkatini çeker. Şimdiyse tıbbi gizemleri çözerek ismini duyuruyor.",
+        "date": "2023-10-22",
+        "rate": 8.827,
+        "seasons": 2,
+        "poster": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+        "banner": "/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+        "bannerslide": "",
+        "popularity": 330.03
+    },
+    {
+        "id": "65930",
+        "name": "My Hero Academia",
+        "category": "Aksiyon",
+        "info": "Hikâye günümüzde geçmektedir. Dünyanın bir çok yerinde özel güçler sahip insanlar yaşamaktadır. Oldukça yaygın bir hâle geldiğini de söylememiz mümkün. Fakat bu durumun yoğun bir hâle bürünmesi, ana karakterimiz Izuku Midoriya ‘yı etkilemiyor -ki kendisinin hiç bir özel gücü yok. Tabi bu durum yine de Izuku Midoriya’nın hayallerinin önüne geçemez… Ve işte bu hikâye, hayalleri olan bir genci anlatmaktadır.",
+        "date": "2016-04-03",
+        "rate": 8.646,
+        "seasons": 7,
+        "poster": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+        "banner": "/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+        "bannerslide": "/g8VaOsKfeDgarRlGzd3Qh3cVOA4.jpg",
+        "popularity": 122.297
+    },
+    {
+        "id": "119100",
+        "name": "Bocchi the Rock!",
+        "category": "Komedi",
+        "info": "Hitori \"Boochi\" kendisini gitar çalmaya adamış, arkadaş edinmek ve bir grupla beraber sahneye çıkmak isteyen asosyal birisidir. Birgün Kessoku Band grubuna katılması için davet eden davulcu Nijika Ijichi ile tanışır. İlk sahne gösterileri vasat olmasına rağmen, kızların tek bir ortak noktası vardır o da müziktir.",
+        "date": "2022-10-09",
+        "rate": 8.472,
+        "seasons": 1,
+        "poster": "/cxgVuMocdbWo5Pn9AIlnNiEg4Qu.jpg",
+        "banner": "/nNPR2SHrUxqkJENsoul3rXWCzSq.jpg",
+        "bannerslide": "",
+        "popularity": 118.253
+    },
+    {
+        "id": "64196",
+        "name": "Overlord",
+        "category": "Aksiyon,Macera,Fantezi",
+        "info": "Hikayemiz popüler bir online oyun olan Yggdrasil’in bir gün kapatılması ile başlıyor, ama baş kahramanımız olan Momonga oyundan çıkış yapmamaya karar veriyor. Daha sonra Momonga ‘’ En Güçlü Büyücü’’ olan iskelet bir varlığa dönüşüyor. Dünya değişmeye devam eder ve oyun yapımı karakterler olan NPC’ler duygular hissetmeye başlar. Hiç bir ailesi, arkadaşı ya da toplumda bir yeri olmayan bu sıradan genç adam Momonga, bu yeni oyun dünyasını ele geçirmek için çabalamaya başlar.",
+        "date": "2015-07-07",
+        "rate": 8.536,
+        "seasons": 4,
+        "poster": "/aSjpVCanDAwCopdjIgWwrxOWnWf.jpg",
+        "banner": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+        "bannerslide": "",
+        "popularity": 200.166
     }
 ]
